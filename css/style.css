@@ -59,6 +59,9 @@ header{
 	
 
 }
+.ht5 img{
+	margin-left: 30px;
+}
 .c3{
 	float:left;
 	width: 25%;
@@ -68,8 +71,8 @@ header{
 }
 
 .c3 img{
-	width: 140%;
-	margin-left: -30px;
+	width: 60%;
+	margin-left:40px;
 }
 
 .js{
@@ -77,6 +80,9 @@ header{
 	width: 25%;
 	margin: 30px;
 	padding: 10px;
+}
+.js img{
+	margin-left: 30px;
 }
 p{
 	padding: 20px;
@@ -91,5 +97,5 @@ a{
 a:hover{
 	color:grey;
 	transition: .5s;
-	
+
 }
